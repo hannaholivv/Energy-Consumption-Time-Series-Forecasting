@@ -40,6 +40,18 @@ The project demonstrates the application of machine learning techniques to forec
 - Evaluation of model performance using various metrics
 - Insights into the patterns and trends of energy consumption
 
+### Model Performance Metrics
+
+Training Metrics:
+- R2 Score: 0.9539
+- Accuracy (within 10%): 0.9748
+
+Test Metrics:
+- R2 Score: 0.9021
+- Accuracy (within 10%): 0.9257
+
+These results show strong performance on both training and test data, with high R2 scores and accuracy within 10% tolerance. The model performs slightly better on the training data, which is expected, but still maintains good performance on the test data.
+
 ## How to Use
 
 1. Clone the repository
@@ -52,4 +64,3 @@ The project demonstrates the application of machine learning techniques to forec
 - Incorporate external factors like weather data
 - Implement more advanced feature engineering techniques
 - Explore deep learning models for time series forecasting
-
