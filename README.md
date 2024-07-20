@@ -53,10 +53,3 @@ The project demonstrates the application of machine learning techniques to forec
 - Implement more advanced feature engineering techniques
 - Explore deep learning models for time series forecasting
 
-## Contributors
-
-[Your Name]
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
